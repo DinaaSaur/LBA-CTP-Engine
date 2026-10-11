@@ -1,0 +1,11 @@
+com/lba/campaignsengine/CampaignsEngineApplication.class
+com/lba/campaignsengine/campaign/LoggingCampaignEventSender.class
+com/lba/campaignsengine/campaign/CampaignStatus.class
+com/lba/campaignsengine/campaign/CampaignRunningEventType.class
+com/lba/campaignsengine/campaign/Campaign.class
+com/lba/campaignsengine/campaign/CampaignRepository.class
+com/lba/campaignsengine/campaign/ClockConfig.class
+com/lba/campaignsengine/campaign/CampaignRunningTracker.class
+com/lba/campaignsengine/campaign/RunningCampaignController.class
+com/lba/campaignsengine/campaign/CampaignEventSender.class
+com/lba/campaignsengine/campaign/CampaignRunningEvent.class

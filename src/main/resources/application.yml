@@ -1,0 +1,18 @@
+spring:
+  application:
+    name: campaigns-engine
+  datasource:
+    url: jdbc:h2:mem:campaigns-engine;MODE=PostgreSQL;DATABASE_TO_LOWER=TRUE;DEFAULT_NULL_ORDERING=HIGH
+    username: sa
+    password:
+  h2:
+    console:
+      enabled: true
+  jpa:
+    hibernate:
+      ddl-auto: none
+    open-in-view: false
+
+campaigns:
+  scan:
+    fixed-delay: 30000
